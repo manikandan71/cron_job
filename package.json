@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "json-binding": "^0.2.1",
+    "msnodesqlv8": "^2.4.5",
+    "mssql": "^8.0.1",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.0",
+    "nodejs-nodemailer-outlook": "^1.2.4",
+    "nodemailer": "^6.7.2",
+    "nodemailer-express-handlebars": "^4.0.0",
+    "path": "^0.12.7",
+    "tedious": "^14.3.0"
+  }
+}
